@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1715808367 source:d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\main.cpp
+	<iostream>
+	"capturaSegura.h"
+
+1715808314 d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\capturasegura.h
+
+1715808881 source:d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\capturasegura.cpp
+	<iostream>
+	<limits>
+	"capturaSegura.h"
+
