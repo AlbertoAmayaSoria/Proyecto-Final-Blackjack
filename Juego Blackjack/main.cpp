@@ -12,12 +12,17 @@ Fecha:
 #include <iostream>
 
 #include "capturaSegura.h"
+#include "colores.h"
 
 using namespace std;
 
 int main()
 {
     int ingresarJuego;
+
+    EstablecerColor(ROJO);
+    Blackjack();
+    EstablecerColor(BLANCO);
 
 //se revisa que la entrada sea correcta, jugar o no jugar
     ingresarJuego = EntrarAlJuego();

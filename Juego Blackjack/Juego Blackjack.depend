@@ -1,12 +1,18 @@
 # depslib dependency file v1.0
-1715808367 source:d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\main.cpp
+1715810216 source:d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\main.cpp
 	<iostream>
 	"capturaSegura.h"
 
-1715808314 d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\capturasegura.h
+1715810216 d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\capturasegura.h
 
-1715808881 source:d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\capturasegura.cpp
+1715811077 source:d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\capturasegura.cpp
 	<iostream>
 	<limits>
 	"capturaSegura.h"
+
+1715811382 source:d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\colores.cpp
+	"Colores.h"
+
+1715811383 d:\tito\documents\programación 1\proyecto final blackjack\proyecto-final-blackjack\proyecto-final-blackjack\juego blackjack\colores.h
+	<windows.h>
 

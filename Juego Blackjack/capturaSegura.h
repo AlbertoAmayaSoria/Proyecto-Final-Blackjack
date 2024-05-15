@@ -5,4 +5,6 @@ int RespuestaSegura();
 
 int EntrarAlJuego();
 
+void Blackjack();
+
 #endif // CAPTURASEGURA_H_INCLUDED
